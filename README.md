@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=0:f5f5dc,100:0067a3&height=300&section=header&text=알고리즘%20저장소&fontSize=50&rotate=19&fontAlign=60&fontAlignY=40&animation=twinkling&desc=동후니의%20백준%20다이아%20도전기&descAlign=60&descAlignY=57)
+![header](https://capsule-render.vercel.app/api?type=slice&color=0:f5f5dc,100:0067a3&height=300&section=header&text=알고리즘%20저장소&fontSize=50&rotate=19&fontAlign=60&fontAlignY=40&animation=twinkling&desc=백준%20다이아%20도전기&descAlign=60&descAlignY=57)
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ehdgnsl01)](https://solved.ac/ehdgnsl01)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yohan050605)](https://github.com/anuraghazra/github-readme-stats)
