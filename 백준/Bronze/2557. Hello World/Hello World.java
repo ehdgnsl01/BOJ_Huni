@@ -7,5 +7,6 @@ public class Main {
         BufferedWriter writer = new BufferedWriter(new OutputStreamWriter(System.out));
         writer.write("Hello World!");
         writer.flush();
+        writer.close();
     }
 }
